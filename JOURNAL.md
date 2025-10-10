@@ -39,3 +39,15 @@ I will start incorporating in next journal :D.
 
   
 
+## 10/10/2025 - Gonna Start with the LED's  
+
+Alrighty, I'm back. 8:52am
+
+Ok its 9:45am now and I've made some progress. I have taken forever, asking a bunch of people how to do it because I didn't understand it too much but now have been able to get one LED down. The main power led has been implemented!!!!! 
+
+At least I hope it works. I will still keep on going. I need the other three LED's done today so I can start designing the PCB then finally doing the fun stuff. The 3d modelling for the case!
+Back to work!
+
+Its 9:51am, not too far forward than before but I just tried to do the 3 LED's. I will ask someone to check it but for now this is all I can do. I just winged it a little using my prior knowledge from what I have learnt with the first led. Ok wish me luck. Heres how it looks now.![Screenshot 2025-10-10 9.52.57 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--53ca034aca9231a6c78538b08446c0e0742ef2b0/Screenshot%202025-10-10%209.52.57%20AM.png)
+  
+
