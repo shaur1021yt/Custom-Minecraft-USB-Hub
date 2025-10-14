@@ -51,3 +51,23 @@ Back to work!
 Its 9:51am, not too far forward than before but I just tried to do the 3 LED's. I will ask someone to check it but for now this is all I can do. I just winged it a little using my prior knowledge from what I have learnt with the first led. Ok wish me luck. Heres how it looks now.![Screenshot 2025-10-10 9.52.57 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--53ca034aca9231a6c78538b08446c0e0742ef2b0/Screenshot%202025-10-10%209.52.57%20AM.png)
   
 
+## 10/13/2025 - Converted and Began Routing PCB  
+
+5:11pm - I just converted my schematic to a pcb
+![Screenshot 2025-10-13 5.12.35 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjExOCwicHVyIjoiYmxvYl9pZCJ9fQ==--430722ffa8aba4beacb6f653400c1d34dfb02ea1/Screenshot%202025-10-13%205.12.35%20PM.png)
+
+Time to Route everything!!!!
+Okay, its 5:58 now and this is why I've got! Just a few more ratlines remain. 
+![Screenshot 2025-10-13 5.58.33 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--d2767a5569cb94a3237b2db5a6f62550f6ae7a2d/Screenshot%202025-10-13%205.58.33%20PM.png)
+
+I think I got this. Oh and also, I found out why my PCB Hacker Card didn't work when I ordered it... I hadn't routed the wires and just left the rat lines as they were thinking they were wires. Uhm. So I just have like 5 PCB cards that do absolutely nothing. Um. If anyone knows how I could maybe solder the wires in or get a refund if possible. Reach out to me plz. I also learnt smth new now. I learnt how to implement the back of the PCB's for wiring. I was just tryna add wires at the back but now I understand I have to first use the "Via" part. Ok back to work. Gotta finish the rest of the ratlines by using the back. And GUESS who just learnt how? Exactly. Ok I'll be back once done.
+
+Its 6:38Pm and I've finished Routing!!!!
+
+![Screenshot 2025-10-13 6.38.36 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--a1cf9c59cb198ba62cb10e7a30cba829d371a7e5/Screenshot%202025-10-13%206.38.36%20PM.png)
+
+Now tomorrow I will begin the cad and also before that I will also change the shape of the PCB for my custom Minecraft Hub holder. I have a few ideas and I will decide ASAP. That's it for today!
+
+
+  
+
