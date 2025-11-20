@@ -5,14 +5,19 @@ This is my first project for Blueprint, and my second project on PCBs. I'm going
 <img width="348" height="243" alt="Screenshot 2025-11-16 at 2 31 37 pm" src="https://github.com/user-attachments/assets/00ddcf38-5b6d-4aee-a6ca-8b8c497d0bb5" />
 
 Schematic:
-<img width="1169" height="827" alt="Schematic_Usbhub_2025-11-16" src="https://github.com/user-attachments/assets/2f0b6201-996a-4e8b-a709-70f1298f817a" />
+<img width="1169" height="827" alt="Schematic_Usbhub_2025-11-19" src="https://github.com/user-attachments/assets/6cd37fc8-e279-4103-91db-cbefd608600d" />
+
+2d PCB:
+<img width="315" height="199" alt="PCB_PCB_Usbhub_2025-11-19" src="https://github.com/user-attachments/assets/238f73b1-0ed2-4672-b5bb-b5eeb4e6eeb8" />
 
 3d PCB:
 -Front
-<img width="532" height="406" alt="Screenshot 2025-11-16 at 2 37 55 pm" src="https://github.com/user-attachments/assets/8a25e268-3404-40c9-8a67-a061776e21b6" />
+<img width="508" height="367" alt="Screenshot 2025-11-19 at 8 38 12 pm" src="https://github.com/user-attachments/assets/5f4efb7a-a5bb-470f-b4c6-4efe9cc2011f" />
+
 
 -Back
-<img width="574" height="399" alt="Screenshot 2025-11-16 at 2 38 01 pm" src="https://github.com/user-attachments/assets/758bb2fc-f8e0-4aad-83a2-3cd3d67e1982" />
+<img width="548" height="405" alt="Screenshot 2025-11-19 at 8 38 20 pm" src="https://github.com/user-attachments/assets/49cd7f34-e6b0-4636-8fbc-ef9279486bed" />
+
 
 
 
