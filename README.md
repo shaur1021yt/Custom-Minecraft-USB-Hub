@@ -2,7 +2,8 @@
 This is my first project for Blueprint, and my second project on PCBs. I'm going to try and customize the HackClub Jam tutorial of the USB hub especially as I need one so badly. If possible I'll change the design so it's 3 or 4 extra ports than just 2!
 
 3d Model For Print: 
-<img width="348" height="243" alt="Screenshot 2025-11-16 at 2 31 37 pm" src="https://github.com/user-attachments/assets/00ddcf38-5b6d-4aee-a6ca-8b8c497d0bb5" />
+<img width="357" height="385" alt="Screenshot 2025-11-20 at 6 52 00 pm" src="https://github.com/user-attachments/assets/e83e8288-8929-41f6-ad87-0394b7651079" />
+
 
 3d Model Full Assembled:
 <img width="546" height="472" alt="Screenshot 2025-11-20 at 6 46 20 pm" src="https://github.com/user-attachments/assets/a96bfb9c-9f17-4e75-b69e-4b2d9502351f" />
