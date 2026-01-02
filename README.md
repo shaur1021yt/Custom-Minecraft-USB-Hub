@@ -1,5 +1,6 @@
+
 # Custom-Minecraft-USB-Hub
-This is my first project for Blueprint, and my second project on PCBs. I'm going to try and customize the HackClub Jam tutorial of the USB hub especially as I need one so badly. If possible I'll change the design so it's 3 or 4 extra ports than just 2!
+This is my first project for Blueprint, and my second project on PCBs. I'm going to try and customize the HackClub Jam tutorial of the USB hub especially as I need one so badly. If possible I'll change the design so it's 3 or 4 extra ports than just 2! Sponsored by PCBWay, more on their awesome help at the bottom!
 
 3d Model For Print: 
 <img width="357" height="385" alt="Screenshot 2025-11-20 at 6 52 00 pm" src="https://github.com/user-attachments/assets/e83e8288-8929-41f6-ad87-0394b7651079" />
@@ -26,6 +27,6 @@ Schematic:
 <img width="544" height="454" alt="Back" src="https://github.com/user-attachments/assets/0aee6c9f-ec4e-4845-9216-bafa19d4b961" />
 
 
-
+The project was great to make but ordering would've been a hassle. Being ripped off by other companies and not being able to get the best value. PCBWay saved me all that work when they showed me how I can get my quote for my PCB just by putting iny Gerber file. This saved me sooooo much time and helped out a ton. They hooked me up with free prototyping for the USB hub and were quick to respond to my questions. The pcbs too were high quality and made me feel like a professional! Thanks PCBWay!!!!!
 
 
