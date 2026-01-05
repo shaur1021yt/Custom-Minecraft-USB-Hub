@@ -28,5 +28,5 @@ Schematic:
 
 
 The project was great to make but ordering would've been a hassle. Being ripped off by other companies and not being able to get the best value. PCBWay saved me all that work when they showed me how I can get my quote for my PCB just by putting iny Gerber file. This saved me sooooo much time and helped out a ton. They hooked me up with free prototyping for the USB hub and were quick to respond to my questions. The pcbs too were high quality and made me feel like a professional! Thanks PCBWay!!!!!
-
+Link: PCBWay.com
 
